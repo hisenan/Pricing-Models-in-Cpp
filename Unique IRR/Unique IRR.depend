@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613825124 source:d:\miscellaneous\unique irr\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
